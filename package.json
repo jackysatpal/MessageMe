@@ -1,0 +1,26 @@
+{
+  "name": "MessageMe",
+  "version": "1.0.0",
+  "description": "Message app in Node, Express and Socket.IO",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node":"8.9.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackysatpal/MessageMe.git"
+  },
+  "keywords": [],
+  "author": "Jacky Satpal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackysatpal/MessageMe/issues"
+  },
+  "homepage": "https://github.com/jackysatpal/MessageMe#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
